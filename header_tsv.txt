@@ -1,0 +1,1 @@
+query.name	flag	ref.name	ref.pos	mapq	cigar	mate.ref	mate.pos	template.length	seq	quality									
