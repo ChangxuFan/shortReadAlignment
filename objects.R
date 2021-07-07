@@ -11,4 +11,4 @@ source("helpers.R")
 BOWTIE2.DEFAULTS <- " --xeq --dovetail"
 BOWTIE2 <- "/opt/apps/bowtie2/2.3.4.1/bowtie2"
 SAMTOOLS <- "/bar/cfan/anaconda2/envs/jupyter/bin/samtools"
-BWA.TARGET <- "~/software/bwa/bwa_0.7.16a-r1181/bwa-0.7.16/bwa"
+BWA.TARGET <- "/bar/cfan/software/bwa/bwa_0.7.16a-r1181/bwa-0.7.16/bwa"
